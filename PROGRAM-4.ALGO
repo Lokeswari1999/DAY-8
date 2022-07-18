@@ -1,0 +1,7 @@
+Pass two arguments and 1 is return value.
+Take the input from the user (byte value and bit position).
+Argument 1 can be byte value and argument 2 can be bit position in the byte value.
+From that bit position can be left shifted with 1 and which can be stored in temperory variable.
+Then byte value xor with temperory variable mask that can store in binary value.
+That stored byte value can be store in another variable as result.
+That reslt value is the output. 
