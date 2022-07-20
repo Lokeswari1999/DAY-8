@@ -1,0 +1,5 @@
+Take an array variable.
+Sort the numbers using pointer with for loop.
+If one condition is greater than another then again start looping for small number.   
+If one condition is less than another then check the conditions which is about swapping logic using third variable.
+After checking the statements of if condition then print the sorted elements in ascending order.
